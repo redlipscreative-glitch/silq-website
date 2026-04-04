@@ -1,0 +1,64 @@
+{
+  "nav": {
+    "shop": "Kedai",
+    "about": "Tentang Kami",
+    "sizeGuide": "Panduan Saiz",
+    "faq": "Soalan Lazim",
+    "contact": "Hubungi",
+    "cart": "Troli"
+  },
+  "home": {
+    "eyebrow": "Koleksi Baru",
+    "tagline": "Keyakinan adalah kulit kedua anda.",
+    "shopNow": "Beli Sekarang",
+    "ourStory": "Kisah Kami",
+    "ourProducts": "Produk Kami",
+    "sizeGuidePrompt": "Tidak pasti saiz yang sesuai? Kami sedia membantu.",
+    "viewSizeGuide": "Lihat Panduan Saiz",
+    "storyQuote": "SILQ dilahirkan untuk wanita yang menjalani kehidupan dengan anggun dan bertujuan. Apabila anda berasa selesa di dalam, anda menguasai setiap bilik yang anda masuki.",
+    "readMore": "Baca Lagi"
+  },
+  "product": {
+    "addToCart": "Tambah ke Troli",
+    "selectSize": "Pilih Saiz",
+    "sizeGuide": "Panduan Saiz",
+    "relatedProduct": "Anda Mungkin Suka"
+  },
+  "cart": {
+    "title": "Troli Anda",
+    "empty": "Troli anda kosong.",
+    "continueShopping": "Teruskan Membeli-belah",
+    "orderSummary": "Ringkasan Pesanan",
+    "subtotal": "Jumlah Kecil",
+    "shipping": "Penghantaran",
+    "free": "Percuma",
+    "total": "Jumlah",
+    "checkout": "Teruskan ke Pembayaran",
+    "remove": "Buang"
+  },
+  "checkout": {
+    "title": "Pembayaran",
+    "name": "Nama Penuh",
+    "email": "Alamat E-mel",
+    "phone": "Nombor Telefon",
+    "address": "Alamat Penghantaran",
+    "city": "Bandar",
+    "postcode": "Poskod",
+    "state": "Negeri",
+    "paymentMethod": "Kaedah Pembayaran",
+    "placeOrder": "Buat Pesanan",
+    "successTitle": "Pesanan Disahkan!",
+    "successMessage": "Terima kasih atas pesanan anda. Anda akan menerima e-mel pengesahan tidak lama lagi."
+  },
+  "faq": {
+    "title": "Soalan Lazim"
+  },
+  "contact": {
+    "title": "Hubungi Kami",
+    "namePlaceholder": "Nama Anda",
+    "emailPlaceholder": "E-mel Anda",
+    "messagePlaceholder": "Mesej Anda",
+    "send": "Hantar Mesej",
+    "successMessage": "Terima kasih! Kami akan menghubungi anda dalam 1-2 hari bekerja."
+  }
+}
