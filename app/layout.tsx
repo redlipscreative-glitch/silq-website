@@ -2,14 +2,18 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'SILQ — Confidence is your second skin',
-  description: 'Premium women\'s innerwear. Safety pants and body shaper. Shop SILQ SAFE and SILQ SHAPE.',
+  title: { default: 'SILQ — Confidence is your second skin', template: '%s | SILQ' },
+  description: "Premium Malaysian women's innerwear. SILQ SAFE safety pants and SILQ SHAPE body shaper. Shop online with free shipping.",
+  keywords: ['safety pants Malaysia', 'body shaper Malaysia', 'SILQ', 'innerwear', 'seluar keselamatan'],
+  openGraph: {
+    title: 'SILQ — Confidence is your second skin',
+    description: 'Premium Malaysian women\'s innerwear. Free shipping nationwide.',
+    images: ['/logo.png'],
+    locale: 'en_MY',
+    type: 'website',
+  },
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
-  return (
-    <html>
-      <body>{children}</body>
-    </html>
-  )
+  return <html><body>{children}</body></html>
 }
