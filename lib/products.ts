@@ -20,7 +20,7 @@ export const products: Product[] = [
     descriptionMs: 'Perlindungan bergaya untuk wanita aktif dan fesyen moden. Pakai di bawah skirt dan gaun dengan penuh keyakinan.',
     price: 59.00,
     sizes: ['XS', 'S', 'M', 'L', 'XL', 'XXL'],
-    images: ['/products/silq-safe-1.jpg'],
+    images: ['/products/silq-safe-1.png'],
   },
   {
     id: 'silq-shape',
@@ -31,7 +31,7 @@ export const products: Product[] = [
     descriptionMs: 'Keyakinan harian, keselesaan, dan lekuk tubuh yang cantik. Pembentuk badan tanpa jahitan untuk wanita sebenar.',
     price: 89.00,
     sizes: ['S', 'M', 'L', 'XL', 'XXL'],
-    images: ['/products/silq-shape-1.jpg'],
+    images: ['/products/silq-shape-1.png'],
   },
 ]
 
