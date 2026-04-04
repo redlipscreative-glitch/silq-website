@@ -1,3 +1,15 @@
+import Hero from '@/components/home/Hero'
+import ProductsSection from '@/components/home/ProductsSection'
+import SizeBanner from '@/components/home/SizeBanner'
+import BrandStory from '@/components/home/BrandStory'
+
 export default function HomePage() {
-  return <div className="bg-cream min-h-screen" />
+  return (
+    <>
+      <Hero />
+      <ProductsSection />
+      <SizeBanner />
+      <BrandStory />
+    </>
+  )
 }
